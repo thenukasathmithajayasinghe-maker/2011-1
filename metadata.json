@@ -1,0 +1,6 @@
+{
+  "name": "THENUKA SATHMITHA GEMS",
+  "description": "Luxury Gemological Portal & AI Research Encyclopedia with 3D crystal lattice viewer, verified Sri Lankan mine provenance, and AI Gem Consultant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
